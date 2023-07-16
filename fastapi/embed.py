@@ -1,6 +1,3 @@
-# Azure Boilerplate
-import azure.functions as func
-
 # API Boilerplate
 from fastapi import APIRouter, Form, UploadFile
 from typing_extensions import Annotated
